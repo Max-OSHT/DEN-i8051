@@ -12,8 +12,8 @@ LR4
 LR5
 ![image](https://user-images.githubusercontent.com/87578324/233861390-53318e98-70f5-494b-b049-75d209959d2f.png)
 LR6
-![image](https://user-images.githubusercontent.com/87578324/233861399-afccb0f1-67cc-4fe3-97b4-9987422f6e49.png)
+![image](https://user-images.githubusercontent.com/87578324/233861390-53318e98-70f5-494b-b049-75d209959d2f.png)
 LR7
-![image](https://user-images.githubusercontent.com/87578324/233861424-9555de86-583a-45ae-b59b-244c56f078ae.png)
+![image](https://user-images.githubusercontent.com/87578324/233861399-afccb0f1-67cc-4fe3-97b4-9987422f6e49.png)
 LR8
 ![image](https://user-images.githubusercontent.com/87578324/233861461-5d09db91-83ab-49ad-994b-f94915f32d1d.png)

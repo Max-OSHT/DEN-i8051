@@ -1,7 +1,7 @@
 # den
 This is a cycle of laboratory work on the i8051 microcontroller on the mcs-51 architecture, made for a classmate in the MCStudio simulator.
 ![image](https://user-images.githubusercontent.com/87578324/233860901-14794d6b-c2cf-4e78-a769-1a777d56688e.png)
-LR1
+\nLR1
 ![image](https://user-images.githubusercontent.com/87578324/233861311-e0d193e3-a1b6-4247-8a59-631d9d1a5c40.png)
 LR2
 ![image](https://user-images.githubusercontent.com/87578324/233861332-744cbc0b-26c9-4c62-aa93-2247397d01b3.png)

@@ -1,0 +1,4 @@
+<all>: LR1Den.mp
+<files>: LR1Den.mcp LR1Den.mcu
+LR1Den.mcu: LR1Den.asm
+LR1Den.mp: <files>
